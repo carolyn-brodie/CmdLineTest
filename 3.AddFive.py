@@ -8,3 +8,4 @@ def addFive(number):
 x = addFive(6)
 ##print(addFive(6))
 print(x + 2)
+print("hi")
